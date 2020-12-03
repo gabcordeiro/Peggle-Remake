@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - bolas
+  - pinoLaranja
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - 
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2922792343
+    locked: 0
+  - name: BackgroundFrente
+    uniqueID: 1813987479
+    locked: 0
+  - name: Bola
+    uniqueID: 2521729867
+    locked: 0
+  - name: Lancador
+    uniqueID: 2985307717
+    locked: 0
+  - name: Base
+    uniqueID: 2791915403
+    locked: 0
+  - name: Particula
+    uniqueID: 2888674125
+    locked: 0
